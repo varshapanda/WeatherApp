@@ -13,3 +13,8 @@ A simple weather app built with HTML, CSS, and JavaScript that shows the current
 - HTML
 - CSS
 - JavaScript
+
+
+## Deployed Frontend Link 
+
+https://simpleweather-live.netlify.app/
